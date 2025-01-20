@@ -1,0 +1,10 @@
+{
+  "domain": "sev_energy",
+  "name": "SEV Energy",
+  "version": "1.0.0",
+  "documentation": "https://example.com/docs",
+  "dependencies": [],
+  "codeowners": ["@onehso"],
+  "requirements": ["requests"],
+  "config_flow": true
+}
